@@ -1,1 +1,1 @@
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "my_private_api_key"
