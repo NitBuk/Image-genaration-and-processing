@@ -29,3 +29,10 @@ Save Image: Users have the option to save their edited image locally.
 The tool is designed with user-friendliness in mind, and each operation can be performed by simply entering the corresponding number. The tool is built using Python and leverages the power of various libraries for image processing and AI.
 
 This tool is perfect for those who want to experiment with image processing and editing without needing in-depth knowledge of the underlying principles and techniques.
+# -
+There are 2 ways to run this program:
+
+1 - With your IDE output. 2 - With the tkinter GUI.
+
+# -
+**please note that you have to enter your private openai-api in keys.py
